@@ -3,10 +3,12 @@
  * @author Ms. Namasivayam
  * @version 03/10/2023
  */
+
 import java.util.Stack;
 import java.util.ArrayList;
 import java.util.Queue;
 import java.util.LinkedList;
+
 public class MazeSolver {
     private Maze maze;
 
